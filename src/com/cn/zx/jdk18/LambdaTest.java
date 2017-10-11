@@ -17,6 +17,7 @@ public class LambdaTest {
 
 	static List<String> names = Arrays.asList("b", "a", "d", "c");
 
+	
 	/**
 	 * @Title: sortForList 
 	 * @Description: jdk1.8之前的排序方法
